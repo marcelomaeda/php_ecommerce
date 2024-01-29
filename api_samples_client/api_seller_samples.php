@@ -6,9 +6,9 @@
 	// settings
 	
 //	$domain_url = 'http://sandbox.mktplace.eu';
-//    $email = 'marcelo@mformula.com.br';
-//	$token = 'KuiutrfffDDSS865ujhgFFDD';
-//	$secret = 'gtret56TgYtren654Hjhg3257tREWlkjhn';
+//    $email = '';
+//	$token = '';
+//	$secret = '';
 	
 	////////////////////////////////////////////////////////////////////////////////////////////////////////////////	
   
