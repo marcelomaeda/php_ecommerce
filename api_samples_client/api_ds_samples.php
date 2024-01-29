@@ -6,9 +6,9 @@
 	// settings
 	
 	$domain_url = 'https://shoptest2.mformula.info';
-    $email = 'marcelo@mformula.com.br';
-	$token = 'KuiutrfffDDSS865ujhgFFDD';
-	$secret = 'gtret56TgYtren654Hjhg3257tREWlkjhn';
+    $email = '';
+	$token = '';
+	$secret = '';
 	
 	////////////////////////////////////////////////////////////////////////////////////////////////////////////////	  
     // sample list product options and values
